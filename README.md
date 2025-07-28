@@ -11,4 +11,5 @@ A simple Python-based library management system that lets users add, remove, and
 3. Open a terminal or command prompt in that folder
 4. Run the script:
                  Libruary software.py
-  
+  #  Author
+Made by Abdurrehman
